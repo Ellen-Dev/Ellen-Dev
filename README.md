@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ellen-Dev
-- 👀 I’m interested in learning
+- 👀 I’m interested in learning Css/JavaScript/React
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate with creative solutions
+- 📫 How to reach me https://www.linkedin.com/in/ellen-dias-5b73b3178/
 
 <!---
 Ellen-Dev/Ellen-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
